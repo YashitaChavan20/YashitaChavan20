@@ -1,112 +1,114 @@
 # Yashita-Chavan
 👋 Hi, I’m Yashita Chavan
+---
 
-🎓 Engineering Student | Aspiring Data Analyst
-📊 Python • SQL • Excel • Power BI • Statistics
+🎓 **Engineering Student | Aspiring Data Analyst**  
+📊 **Python • SQL • Excel • Power BI • Statistics**
 
-📌 About Me
+---
 
-I am an Artificial Intelligence & Data Science engineering student with a strong interest in data analytics and business intelligence. I enjoy working with real-world datasets to clean, analyze, and visualize data, transforming raw information into meaningful insights that support data-driven decision-making.
+## 📌 About Me
+---
 
-My experience spans the complete data analytics workflow — data collection, cleaning, transformation, analysis, visualization, and reporting. I focus on writing efficient SQL queries, building interactive Power BI dashboards, and using Python for data analysis and automation.
+I am an **Artificial Intelligence & Data Science engineering student** with a strong interest in **data analytics and business intelligence**. I enjoy working with real-world datasets to **clean, analyze, and visualize data**, transforming raw information into **meaningful insights that support data-driven decision-making**.
 
-🧩 Core Skills
+My experience spans the complete **data analytics workflow** — data collection, cleaning, transformation, analysis, visualization, and reporting. I focus on writing **efficient SQL queries**, building **interactive Power BI dashboards**, and using **Python** for data analysis and automation.
 
-Data Cleaning & Preprocessing
+---
 
-Exploratory Data Analysis (EDA)
+## 🧩 Core Skills at a Glance
+---
 
-Advanced SQL Queries & Optimization
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Advanced SQL Queries & Optimization  
+- Power BI Dashboard Development  
+- Excel-based Data Analysis  
+- Statistical Analysis for Business Insights  
 
-Power BI Dashboard Development
+---
 
-Excel-based Data Analysis
+## 🛠️ Technology Stack
+---
 
-Statistical Analysis for Business Insights
+### 🐍 Python (Data Analysis)
+- Pandas, NumPy  
+- Data cleaning & transformation  
+- EDA and automation scripts  
 
-🛠️ Tech Stack
-🐍 Python (Data Analysis)
+---
 
-Pandas, NumPy
+### 🗄️ SQL & Databases
+- MySQL  
+- Joins, Subqueries, CTEs  
+- Aggregations & Window Functions  
+- Constraints & Normalization  
 
-Data cleaning & transformation
+---
 
-EDA and automation scripts
+### 📊 Power BI
+- Interactive dashboards  
+- KPIs, slicers & filters  
+- Data modeling & DAX basics  
 
-🗄️ SQL & Databases
+---
 
-MySQL
+### 📈 Microsoft Excel
+- Pivot Tables & Charts  
+- Advanced formulas (VLOOKUP/XLOOKUP, IF, COUNTIFS)  
+- Data validation & reporting  
 
-Joins, Subqueries, CTEs
+---
 
-Aggregations & Window Functions
+### 📊 Statistics
+- Descriptive statistics  
+- Trend & correlation analysis  
+- Business interpretation of data  
 
-Constraints & Normalization
+---
 
-📊 Power BI
+## 📂 Featured Projects
+---
 
-Interactive dashboards
+- **Data Cleaning & Analysis Project**  
+  *End-to-end data preprocessing and insight generation*
 
-KPIs, slicers & filters
+- **Power BI Business Dashboard**  
+  *KPI-driven dashboard for business decision support*
 
-Data modeling & DAX basics
+- **A/B Testing Analysis**  
+  *Statistical comparison and result interpretation*
 
-📈 Microsoft Excel
+- **Research Data Analysis**  
+  *Structured data analysis using Python & SQL*
 
-Pivot Tables & Charts
+🚀 *More projects coming soon*
 
-Advanced formulas (VLOOKUP/XLOOKUP, IF, COUNTIFS)
+---
 
-Data validation & reporting
+## 📚 Currently Learning
+---
 
-📊 Statistics
+- Advanced SQL for analytics & interviews  
+- Power BI DAX (advanced measures)  
+- Applied statistics for real-world data problems  
 
-Descriptive statistics
+---
 
-Trend & correlation analysis
+## 🎯 Areas of Interest
+---
 
-Business interpretation of data
+- Data Analytics & Business Intelligence  
+- SQL-heavy analytical roles  
+- Dashboard-driven storytelling  
+- Research & insight generation  
 
-📂 Featured Projects
+---
 
-Data Cleaning & Analysis Project
-End-to-end data preprocessing and insight generation
+## 💡 Strengths
+---
 
-Power BI Business Dashboard
-KPI-driven dashboard for business decision support
-
-A/B Testing Analysis
-Statistical comparison and result interpretation
-
-Research Data Analysis
-Structured data analysis using Python & SQL
-
-🚀 More projects coming soon
-
-📚 Currently Learning
-
-Advanced SQL for analytics & interviews
-
-Power BI DAX (advanced measures)
-
-Applied statistics for real-world data problems
-
-🎯 Areas of Interest
-
-Data Analytics & Business Intelligence
-
-SQL-heavy analytical roles
-
-Dashboard-driven storytelling
-
-Research & insight generation
-
-💡 Strengths
-
-Strong analytical and logical thinking
-
-Hands-on Power BI and SQL experience
-
-Ability to convert raw data into insights
-
-Consistent learner with interview readiness
+- Strong analytical and logical thinking  
+- Hands-on Power BI and SQL experience  
+- Ability to convert raw data into actionable insights  
+- Consistent learner with interview readiness  
