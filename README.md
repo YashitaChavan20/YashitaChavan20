@@ -4,9 +4,11 @@
 🎓 Engineering Student | Aspiring Data Analyst
 📊 Python • SQL • Excel • Power BI • Statistics
 
-I am an Artificial Intelligence & Data Science engineering student with a strong interest in data analytics and business intelligence. I enjoy working with real-world datasets to clean, analyze, and visualize data, transforming raw information into meaningful insights that support decision-making.
+📌 About Me
 
-My experience covers the complete data analytics workflow — data collection, cleaning, transformation, analysis, visualization, and reporting. I focus on writing efficient SQL queries, building interactive Power BI dashboards, and using Python for data analysis and automation.
+I am an Artificial Intelligence & Data Science engineering student with a strong interest in data analytics and business intelligence. I enjoy working with real-world datasets to clean, analyze, and visualize data, transforming raw information into meaningful insights that support data-driven decision-making.
+
+My experience spans the complete data analytics workflow — data collection, cleaning, transformation, analysis, visualization, and reporting. I focus on writing efficient SQL queries, building interactive Power BI dashboards, and using Python for data analysis and automation.
 
 🧩 Core Skills
 
@@ -23,7 +25,6 @@ Excel-based Data Analysis
 Statistical Analysis for Business Insights
 
 🛠️ Tech Stack
-
 🐍 Python (Data Analysis)
 
 Pandas, NumPy
@@ -68,15 +69,19 @@ Business interpretation of data
 
 📂 Featured Projects
 
-Data Cleaning & Analysis Project – End-to-end data preprocessing and insight generation
+Data Cleaning & Analysis Project
+End-to-end data preprocessing and insight generation
 
-Power BI Business Dashboard – KPI-driven dashboard for business decision support
+Power BI Business Dashboard
+KPI-driven dashboard for business decision support
 
-A/B Testing Analysis – Statistical comparison and result interpretation
+A/B Testing Analysis
+Statistical comparison and result interpretation
 
-Research Data Analysis – Structured data analysis using Python & SQL
+Research Data Analysis
+Structured data analysis using Python & SQL
 
-(More projects coming soon 🚀)
+🚀 More projects coming soon
 
 📚 Currently Learning
 
