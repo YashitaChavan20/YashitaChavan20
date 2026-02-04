@@ -67,22 +67,28 @@ My experience spans the complete **data analytics workflow** — data collection
 
 ---
 
-## 📂 Featured Projects
----
+📂 Featured Projects
+────────────────────────────
 
-- **Data Cleaning & Analysis Project**  
-  *End-to-end data preprocessing and insight generation*
+• Data Cleaning & Analysis Project  
+End-to-end data preprocessing and insight generation  
 
-- **Power BI Business Dashboard**  
-  *KPI-driven dashboard for business decision support*
+• Power BI Business Dashboard  
+KPI-driven dashboard for business decision support  
 
-- **A/B Testing Analysis**  
-  *Statistical comparison and result interpretation*
+• A/B Testing Analysis  
+Statistical comparison and result interpretation  
 
-- **Research Data Analysis**  
-  *Structured data analysis using Python & SQL*
+• Research Data Analysis  
+Structured data analysis using Python & SQL  
 
-🚀 *More projects coming soon*
+• Bank Marketing Data Analysis Project 
+Comprehensive data analysis project focusing on data understanding, cleaning, exploratory analysis, and deriving business insights using Python and SQL.  
+
+• Customer Demographics & Campaign Effectiveness Analysis
+Advanced analytical project involving deeper insight generation, pattern analysis, and data-driven conclusions supported by visualization and reporting.
+
+🚀 More projects coming soon
 
 ---
 
